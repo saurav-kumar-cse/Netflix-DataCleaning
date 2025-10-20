@@ -1,6 +1,4 @@
-# Netflix-DataCleaning
-Cleaned and standardized Netflix Movies &amp; TV Shows dataset for analysis.
-# Netflix Dataset - Data Cleaning
+ # Netflix Dataset - Data Cleaning
 
 ## Overview
 This project focuses on **cleaning the Netflix Movies and TV Shows dataset** from Kaggle. The dataset was standardized, missing values handled, and columns cleaned for future analysis.
